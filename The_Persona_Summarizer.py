@@ -96,3 +96,4 @@ if st.button("Start Live Chat!", type="primary", use_container_width=True):
 
 st.markdown("---")
 st.info("Built with ❤️ (and a lot of personality) by a human.")
+
